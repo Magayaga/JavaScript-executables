@@ -104,6 +104,8 @@ We have you create single-line executable applications for this feature allows t
    $ coffee -c -o dist src/format.coffee
    ```
 
+   Then, JavaScript source file can be **Deno** and **Bun** single-line executables.
+
 # Copyright
 
 Copyright (c) 2025 Cyril John Magayaga
