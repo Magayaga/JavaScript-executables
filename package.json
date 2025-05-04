@@ -1,0 +1,16 @@
+{
+  "name": "javascript-executables",
+  "version": "1.0.0",
+  "description": "Hello, everyone. What about it? This tutorial shows how to create a single-line executable using JavaScript, CoffeeScript, and TypeScript programming languages, right? So, It must be **Deno**, and **Bun** are examples of JavaScript or TypeScript engines.",
+  "main": "src/format.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "coffee": "coffee -c -o dist src/format.coffee"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffeescript": "^2.7.0"
+  }
+}
